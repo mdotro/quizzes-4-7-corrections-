@@ -132,3 +132,11 @@ function multiply(a, b, c, d) {
 
 12. For this problem I was asked to show what would be logged to console after the code snipet was executed. In the code snipet there was console.log(d) but there was no d variable in the parameters for the function. But, embedded in the function was var d = 4, but I still  didn't think this would make a difference and undefined or four would be logged. Turned out 4 would only be logged. 
 
+## Quiz 7
+
+02. For this problem I was asked to show the different ways of filling in the missing part of the code snipet given. I selected one correct answer, but then I selected an incorrect one and forgot to select the other correct answer. I thought to console log an array you need console.log(list[item]) but you could just console.log(item).
+
+05. For this problem I was asked to select all the correct ways of adding three more values to an array. I selected two of three, but I didn;t think you coud just assign values to variables that didn't exeist in an array. Apparently you can and this was one of the correct asnwers. 
+
+06. For this problem I was asked to find the missing part of the given code snipet. I answered two of the three correct, but I chose one wrong answer and forgot to choose one of the right answers. The answer "cars.indexOf(car) !== -1," was correct and this said that it didn't equal the vaule held at -1. I didn't think this was a valid answer, but it was and I should've chose it. 
+
