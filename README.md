@@ -96,5 +96,11 @@ Was the correct answer for thsi problem. What I did wrong here was I didn't real
 
 09. Going into this quiz I wasn't sure how to use a else if statement evidently, and for this problem the correct way to do this was to add a else if statement. I thought you could've created a nested if statement and that would work, but the best and correct way of doing this was creating an else if statement. 
 
-0
+12. In this problem I thought that the problem being described could be satisfied by a do while statement. But, the correct way of going about completing this problem was through two different do statements that used "++" and "--". I also thought only "--" was needed to solve. 
+
+13. For this problem I was asked to state the primary difference between a while and do while function. Originally I thought it was A while loop is designed to iterate an undetermined number of times, whereas a do...while loop is designed to iterate a set and specific number of times. But, it turned out it was A while loop check its condition before running the loop body, whereas a do...while loop checks its condition after running the loop body.
+
+14. For this problem I was asked to tell if the statement "Anything written in the form a while (or do...while) loop can be achieved with an equivalent for loop and vice-a-versa," was true or false. I said that it was false, but it turns out that this statement was true. "Anything written in the form a while (or do...while) loop can be achieved with an equivalent for loop and vice-a-versa," is true. 
+
+##Quiz 6
 
