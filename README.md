@@ -102,5 +102,33 @@ Was the correct answer for thsi problem. What I did wrong here was I didn't real
 
 14. For this problem I was asked to tell if the statement "Anything written in the form a while (or do...while) loop can be achieved with an equivalent for loop and vice-a-versa," was true or false. I said that it was false, but it turns out that this statement was true. "Anything written in the form a while (or do...while) loop can be achieved with an equivalent for loop and vice-a-versa," is true. 
 
-##Quiz 6
+## Quiz 6
+
+02. For this problem I was asked to show the correct code snipet for a return function. I didn't relaize that you didn't need to use the prompts in the original code snipet for the return function so I used the code snipet with the prompts from the original code snipet. the correct answer was:
+function divide(a, b) {
+    return a / b;
+}
+
+03. For this problem I was asked different ways to multiply the 3 variables in the parameter for the function. I picked two of the three corect answers, but I didn't pick the third because it look as if a issue would occur due to all the undefined values. It turns out this code snipet would solve the problem correctly. The answer I forgot to select was: 
+function multiply(a, b, c, d) {
+    if (a !=== undefined && b !== undefined && c !== undefined && d !== undefined) {
+        return a * b * c * d;
+    else if (a !=== undefined && b !== undefined && c !== undefined) {
+        return a * b * c;
+    } else if (a !=== undefined && b !== undefined) {
+        return a * b;
+    } else if (a !=== undefined) {
+        return a;
+    }
+}
+
+06. For this problem I was asked to show what would be printed to the console after executing the code snipet given. i didn't know that undefined would be printed to console if there was no value for a variable and thought that it would just come out as blank if there was no value and selected: "I need to do chores, homework, and... So busy!"
+
+08. For this problem I was asked to show all the correct ways to console.log() the function subtract. I picked to of the correct ways to do this task, but I forgot to select the option console.log(subtract); which was the simplest of the ways most likely. Since subtract was in the parameter, the solution of the function would be automatically logged.
+
+09. For this problem i was asked what would be logged if a variable had no value in a parameter. i thought that when a variable is logged and has no value, nothing would show, but the word undefined actually shows,which was the correct answer to this problem. 
+
+10. For this problem i was asked to show the functions that would return a value after input. I knew prompt would, but I forgot that Math.random would also return a fucntion. This was one of the most simple questions that I screwed up. 
+
+12. For this problem I was asked to show what would be logged to console after the code snipet was executed. In the code snipet there was console.log(d) but there was no d variable in the parameters for the function. But, embedded in the function was var d = 4, but I still  didn't think this would make a difference and undefined or four would be logged. Turned out 4 would only be logged. 
 
