@@ -96,11 +96,11 @@ Was the correct answer for thsi problem. What I did wrong here was I didn't real
 
 09. Going into this quiz I wasn't sure how to use a else if statement evidently, and for this problem the correct way to do this was to add a else if statement. I thought you could've created a nested if statement and that would work, but the best and correct way of doing this was creating an else if statement. 
 
-12. In this problem I thought that the problem being described could be satisfied by a do while statement. But, the correct way of going about completing this problem was through two different do statements that used "++" and "--". I also thought only "--" was needed to solve. 
+012. In this problem I thought that the problem being described could be satisfied by a do while statement. But, the correct way of going about completing this problem was through two different do statements that used "++" and "--". I also thought only "--" was needed to solve. 
 
-13. For this problem I was asked to state the primary difference between a while and do while function. Originally I thought it was A while loop is designed to iterate an undetermined number of times, whereas a do...while loop is designed to iterate a set and specific number of times. But, it turned out it was A while loop check its condition before running the loop body, whereas a do...while loop checks its condition after running the loop body.
+013. For this problem I was asked to state the primary difference between a while and do while function. Originally I thought it was A while loop is designed to iterate an undetermined number of times, whereas a do...while loop is designed to iterate a set and specific number of times. But, it turned out it was A while loop check its condition before running the loop body, whereas a do...while loop checks its condition after running the loop body.
 
-14. For this problem I was asked to tell if the statement "Anything written in the form a while (or do...while) loop can be achieved with an equivalent for loop and vice-a-versa," was true or false. I said that it was false, but it turns out that this statement was true. "Anything written in the form a while (or do...while) loop can be achieved with an equivalent for loop and vice-a-versa," is true. 
+014. For this problem I was asked to tell if the statement "Anything written in the form a while (or do...while) loop can be achieved with an equivalent for loop and vice-a-versa," was true or false. I said that it was false, but it turns out that this statement was true. "Anything written in the form a while (or do...while) loop can be achieved with an equivalent for loop and vice-a-versa," is true. 
 
 ## Quiz 6
 
@@ -128,9 +128,9 @@ function multiply(a, b, c, d) {
 
 09. For this problem i was asked what would be logged if a variable had no value in a parameter. i thought that when a variable is logged and has no value, nothing would show, but the word undefined actually shows,which was the correct answer to this problem. 
 
-10. For this problem i was asked to show the functions that would return a value after input. I knew prompt would, but I forgot that Math.random would also return a fucntion. This was one of the most simple questions that I screwed up. 
+010. For this problem i was asked to show the functions that would return a value after input. I knew prompt would, but I forgot that Math.random would also return a fucntion. This was one of the most simple questions that I screwed up. 
 
-12. For this problem I was asked to show what would be logged to console after the code snipet was executed. In the code snipet there was console.log(d) but there was no d variable in the parameters for the function. But, embedded in the function was var d = 4, but I still  didn't think this would make a difference and undefined or four would be logged. Turned out 4 would only be logged. 
+012. For this problem I was asked to show what would be logged to console after the code snipet was executed. In the code snipet there was console.log(d) but there was no d variable in the parameters for the function. But, embedded in the function was var d = 4, but I still  didn't think this would make a difference and undefined or four would be logged. Turned out 4 would only be logged. 
 
 ## Quiz 7
 
@@ -140,3 +140,10 @@ function multiply(a, b, c, d) {
 
 06. For this problem I was asked to find the missing part of the given code snipet. I answered two of the three correct, but I chose one wrong answer and forgot to choose one of the right answers. The answer "cars.indexOf(car) !== -1," was correct and this said that it didn't equal the vaule held at -1. I didn't think this was a valid answer, but it was and I should've chose it. 
 
+07. For this question i was asked to show which answer showed that the code did not work as intended. I chose [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ] because I didn't understand the question too well, but the answer was [ -9, -1, -8, -2, -7, -3, -6, -4, -5 ] because these were all of the lowest values. 
+
+08. For this question i was asked to show which description showed the behavior of the code. I thought that index would be returned  if an instance of a was found in b, but if not -1 would be returned. The actual answer was, "returns true if some array, a, contains at least one instance of some value, b; otherwise, returns false." This is the correct answer because it would show that its true that b is found in the array, a, awhcih was what the code was executing. 
+
+09. This answer was given full credit for me, but was marked wrong. 
+
+012. I worte a little too extra for one of the answers, but it was still marked wrong, althoug my answer was correct. 
